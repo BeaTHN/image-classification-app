@@ -1,0 +1,8 @@
+streamlit
+tensorflow
+Pillow
+numpy
+pandas
+passlib
+requests
+
