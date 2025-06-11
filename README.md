@@ -43,8 +43,6 @@ Bienvenue dans cette application Streamlit permettant de classer des races de ch
 
 ---
 
----
-
 ## Installation locale
 
 ### 1. Cloner le dépôt
@@ -58,7 +56,7 @@ pip install -r requirements.txt
 
 ### 3. Lancer l'application
 streamlit run app.py
-
+```
 L'application s'ouvrira automatiquement dans votre navigateur à l'adresse http://localhost:8501
 
 ---
