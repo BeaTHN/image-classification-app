@@ -1,6 +1,6 @@
 [server]
 enableXsrfProtection = false
 
-[runner]
+[global]
 # Spécifier Python 3.10 qui est compatible avec TensorFlow
 pythonVersion = "3.10"
